@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="newNoteSystem">
+        <item>A1</item>
+        <item>A2</item>
+        <item>A3</item>
+        <item>B1</item>
+        <item>B2</item>
+        <item>B3</item>
+        <item>C1 </item>
+        <item>C2</item>
+        <item>C3</item>
+        <item>D1</item>
+        <item>D2</item>
+        <item>F1</item>
+        <item>F2</item>
+    </string-array>
+</resources>

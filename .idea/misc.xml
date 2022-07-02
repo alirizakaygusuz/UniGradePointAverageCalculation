@@ -5,7 +5,10 @@
       <map>
         <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/UniversityAverageCalculation/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/UniversityAverageCalculation/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/UniversityAverageCalculation/app/src/main/res/drawable/main_bottom_line.xml" value="0.3828125" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/UniversityAverageCalculation/app/src/main/res/layout/activity_main.xml" value="0.29438405797101447" />
         <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/UniversityAverageCalculation/app/src/main/res/layout/activity_splash.xml" value="0.29438405797101447" />
+        <entry key="..\:/Users/PC/AndroidStudioProjects/GithubAtilacaklar/UniversityAverageCalculation/app/src/main/res/layout/new_lesson_layout.xml" value="0.29438405797101447" />
       </map>
     </option>
   </component>
@@ -14,5 +17,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.29438405797101447" />
+      </ProjectState>
+    </option>
   </component>
 </project>
